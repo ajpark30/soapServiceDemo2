@@ -4,7 +4,7 @@
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="soapServiceDemo2" />
+          <element id="module-output" name="soapServiceDemo" />
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Maven: javax:javaee-web-api:7.0" />
@@ -17,7 +17,7 @@
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/target/soapServiceDemo/META-INF/MANIFEST.MF" />
       </element>
-      <element id="javaee-facet-resources" facet="soapServiceDemo2/web/Web" />
+      <element id="javaee-facet-resources" facet="soapServiceDemo/web/Web" />
     </root>
   </artifact>
 </component>
